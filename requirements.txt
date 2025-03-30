@@ -1,0 +1,11 @@
+langchain
+langchain_text_splitters
+langchain_core
+langchain_groq
+langchain-huggingface
+langchain_community
+unstructured
+faiss-cpu
+pillow
+ipython
+unstructured[all-docs]

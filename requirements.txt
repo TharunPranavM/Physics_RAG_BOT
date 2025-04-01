@@ -9,3 +9,4 @@ faiss-cpu
 pillow
 ipython
 unstructured[all-docs]
+streamlit
